@@ -56,3 +56,4 @@ int main()
     countCharacters(linha); //calls the countCharacters function
 
     return EXIT_SUCCESS;
+}
